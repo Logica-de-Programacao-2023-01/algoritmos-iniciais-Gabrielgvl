@@ -1,3 +1,13 @@
-bla blalb
-bla bla
-bla
+mkdir repos -- Criar a pasta
+cd repos -- Acessar a pasta
+git clone https://github.com/Logica-de-Programacao-2023-01/algoritmos-iniciais-Gabrielgvl.git -- Clonar o repositorio
+cd algoritmos-iniciais-Gabrielgvl/ -- Acessar a pasta do repositório
+nano algoritmo1.txt -- Criar arquivo de text
+git add algoritmo1.txt -- Adicionar o arquivo ao Git
+git commit -m "solucao 1" -- Commitar o arquivo
+git push -- Enviar ao GitHub
+
+Para salvar dentro do nano:
+CTRL+X
+Y
+ENTER
